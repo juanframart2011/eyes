@@ -1,0 +1,16 @@
+body{
+	background:black;
+}
+
+#mensajero{
+	background:url('../img/animacion.jpg');
+	color: white;
+	height: 527px;
+	margin: 0px auto;
+	width: 640px;  
+}
+
+#mensajero h1{
+	color: yellow;
+	text-align: center;
+}
